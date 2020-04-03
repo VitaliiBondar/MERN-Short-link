@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "vitalii test prj",
+  "mongoUri": "mongodb+srv://Vitalii:mern@cluster0-wwddq.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
